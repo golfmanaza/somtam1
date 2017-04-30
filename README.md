@@ -13,8 +13,7 @@ h1,h2,h3,h4,h5,h6 {
 <!-- Navbar (sit on top) -->
 <div class="w3-top ">
   <div class="w3-bar w3-white w3-padding w3-card-2 w3-hide-small w3-" style="letter-spacing:3px;">
-     <h1><a href="https://golfmanaza.github.io/10yummyfoodinHDY/" target="_blank" class="w3-card-4 w3-hover-text-green">10ร้านห้ามพลาดในหาดใหญ่</a></h1>
-	 <div class="w3-left">
+     <h1><a href="https://golfmanaza.github.io/10yummyfoodinHDY/" target="_blank" class=" w3-hover-text-green">10ร้านห้ามพลาดในหาดใหญ่</a></h1>
       <a href="#about" class="w3-bar-item w3-button w3-card-4 w3-border w3-hover-orange">ร้าน</a>
       <a href="#menu" class="w3-bar-item w3-button w3-card-4 w3-border w3-hover-green">ข้อมูลร้าน</a>
 
@@ -49,7 +48,7 @@ h1,h2,h3,h4,h5,h6 {
 ราคาสบายกระเป๋า เหมาะสำหรับทุกเพศทุกวัยค่ะ  </P>
 	  </div>
   </div>
-id="menu"
+
   <!-- Menu Section -->
 
   <div class="w3-row w3-padding-64 w3-card-2" id="menu">
