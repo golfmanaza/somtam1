@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 </style>
 <!-- Navbar (sit on top) -->
-<div class="" style="max-width:1500px;min-width:300px letter-spacing:3px;" >
+<div class="w3-top" style="max-width:1500px;min-width:300px letter-spacing:3px;" >
   <div class="w3-bar w3-white w3-padding w3-card-2 ">
    <a href="https://golfmanaza.github.io/10yummyfoodinHDY/" target="_blank" class="w3-card-4 w3-xxlarge  w3-hover-text-green">10ร้านห้ามพลาดในหาดใหญ่</a>
 <div class="w3-right">
