@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 </style>
 <!-- Navbar (sit on top) -->
-<div class="w3-top" style="max-width:1500px;min-width:300px letter-spacing:3px;" >
+<div class="" style="max-width:1500px;min-width:300px letter-spacing:3px;" >
   <div class="w3-bar w3-white w3-padding w3-card-2 ">
    <a href="https://golfmanaza.github.io/10yummyfoodinHDY/" target="_blank" class="w3-card-4 w3-xxlarge  w3-hover-text-green">10ร้านห้ามพลาดในหาดใหญ่</a>
 <div class="w3-right">
@@ -54,7 +54,7 @@ h1,h2,h3,h4,h5,h6 {
     <div class="w3-col l6 w3-padding-large w3-text-green">
       <h1 class="w3-center w3-card-4 w3-border w3-hover-red">ข้อมูลร้าน</h1><br>
       <h4>เวลาเปิดร้าน</h4>
-      <p class="w3-text-grey">เปิดบริการทุกวันตั้งแต่เวลา 10.00-14.00.</p><br>
+      <p class="w3-text-grey">เปิดบริการทุกวันตั้งแต่เวลา 10.00-14.00</p><br>
 
       <h4>ที่ตั้งและบรรยากาศ</h4>
       <p class="w3-text-grey">ร้านนี้ตั้งอยู่ริมถนนเส้นทุ่งรี ทางเข้าหอพฤกษา แมนชั่น ตรงข้ามชาเป็นเอก ร้านในสไตล์รถเข็น นั้่งทานริมถนน </p><br>
