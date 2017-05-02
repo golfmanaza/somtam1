@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6 {
       <h1 class="w3-center w3-animate-left w3-card-4 w3-border w3-hover-red ">ร้านส้มตำกระรอก ถนนทุ่งรี</h1><hr>
       <h5 class="w3-center">ร้านส้มตำ ถูก และแซ่บใกล้ ม.อ.</h5>
       <p class="w3-large">ร้านส้มตำพี่กระรอก แถวซอยทุ่งรี
-เป็นร้านรถเข็น มีโต๊ะให้นั้งประมาณ6โต๊ะ
+เป็นร้านรถเข็น มีโต๊ะให้นั่งประมาณ6โต๊ะ
 เลือกสั่ง เมนูได้เลย
 รสชาติ อร่อย ตามฉบับอาหารอีสาน
 ราคาสบายกระเป๋า เหมาะสำหรับทุกเพศทุกวัยค่ะ  </P>
@@ -133,5 +133,5 @@ function showDivs(n) {
 
 <!-- Footer -->
 <footer class="w3-center w3-light-grey w3-padding-32 w3-card-3 ">
-  <p>ชมภาพรอาหารจากร้านต่าง<a href="https://www.instagram.com/explore/tags/eatstylegob/" title="W3.CSS" target="_blank" class="w3-hover-text-green">INSTAGRAM #EATSTYLEGOB</a></p>
+  <p>ชมภาพรอาหารจากร้านต่างๆ<a href="https://www.instagram.com/explore/tags/eatstylegob/" title="W3.CSS" target="_blank" class="w3-hover-text-green">INSTAGRAM #EATSTYLEGOB</a></p>
 </footer>
